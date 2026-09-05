@@ -1,10 +1,10 @@
-package exerciciocarro;
+package Carrinho;
 
 public class Carro{
-   private string marca;
-   private string cor;
-   private string modelo;
-   private int velocidade;
+    String marca;
+    String cor;
+    String modelo;
+    int velocidade;
 
     void acelerar(){
     velocidade = velocidade + 10;
