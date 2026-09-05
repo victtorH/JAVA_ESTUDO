@@ -1,4 +1,4 @@
-package Carrinho;
+package Aula2;
 
 public class Carro{
     String marca;
